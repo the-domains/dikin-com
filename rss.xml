@@ -4,21 +4,21 @@
         <description><![CDATA[Dikin.com]]></description>
         <link>https://thegrid.ai/dikin-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 05:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 05:27:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dikin-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test]]></title>
-            <description><![CDATA[<article><h1>Test</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21f55f0b2413ed1605621b87c1c3811eec7ac350.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Test</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/388074e3324407636e79574c77728b2f1da0bc7a.jpg"></article>]]></description>
             <link>https://thegrid.ai/dikin-com/ce3cc0ef-e60c-4b8e-9620-e70ca6915700/index.html</link>
             <guid isPermaLink="false">ce3cc0ef-e60c-4b8e-9620-e70ca6915700</guid>
             <pubDate>Sat, 09 Jan 2016 05:21:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75719ce8-de31-4c10-bfe7-eacecefd0d69.JPG">]]></description>
+            <title><![CDATA[test 2]]></title>
+            <description><![CDATA[<article><h1>test 2</h1><p>I like us...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/950f30b634cf083e2b9af173f2e9a991965b81bc.jpg"></article>]]></description>
             <link>https://thegrid.ai/dikin-com/97a8f5d2-2009-4744-8bb9-ac7ab7c48f31/index.html</link>
             <guid isPermaLink="false">97a8f5d2-2009-4744-8bb9-ac7ab7c48f31</guid>
-            <pubDate>Sat, 09 Jan 2016 05:16:00 GMT</pubDate>
+            <pubDate>Sat, 09 Jan 2016 05:27:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
