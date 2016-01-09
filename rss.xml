@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dikin.com]]></title>
         <description><![CDATA[Dikin.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dikin-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 04:04:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 04:58:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dikin-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b3508fd-57b5-48a4-b5b0-71f355ab4075.JPG">]]></description>
+            <link>https://thegrid.ai/dikin-com/ce3cc0ef-e60c-4b8e-9620-e70ca6915700/index.html</link>
+            <guid isPermaLink="false">ce3cc0ef-e60c-4b8e-9620-e70ca6915700</guid>
+            <pubDate>Sat, 09 Jan 2016 04:57:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75719ce8-de31-4c10-bfe7-eacecefd0d69.JPG">]]></description>
-            <link>undefined97a8f5d2-2009-4744-8bb9-ac7ab7c48f31/index.html</link>
+            <link>https://thegrid.ai/dikin-com/97a8f5d2-2009-4744-8bb9-ac7ab7c48f31/index.html</link>
             <guid isPermaLink="false">97a8f5d2-2009-4744-8bb9-ac7ab7c48f31</guid>
             <pubDate>Sat, 09 Jan 2016 04:04:17 GMT</pubDate>
         </item>
