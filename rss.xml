@@ -4,21 +4,14 @@
         <description><![CDATA[Dikin.com]]></description>
         <link>https://thegrid.ai/dikin-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 04:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 04:02:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dikin-com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Test]]></title>
-            <description><![CDATA[<article><h1>Test</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/274bf2fbe73dad60540b57968e7b849758097fa1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dikin-com/ce3cc0ef-e60c-4b8e-9620-e70ca6915700/index.html</link>
-            <guid isPermaLink="false">ce3cc0ef-e60c-4b8e-9620-e70ca6915700</guid>
-            <pubDate>Fri, 15 Jan 2016 19:08:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xlf1/t31.0-8/414166_3162760628892_523747379_o.jpg">]]></description>
-            <link>https://thegrid.ai/dikin-com/97447c7e-d9c8-402b-ba81-e26d0d16e7fa/index.html</link>
+            <link>https://www.facebook.com/photo.php?fbid=3162760628892&amp;set=a.1986710388371.2099107.1261628527&amp;type=3&amp;theater</link>
             <guid isPermaLink="false">97447c7e-d9c8-402b-ba81-e26d0d16e7fa</guid>
-            <pubDate>Fri, 15 Jan 2016 19:00:51 GMT</pubDate>
+            <pubDate>Thu, 11 Feb 2016 04:01:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
